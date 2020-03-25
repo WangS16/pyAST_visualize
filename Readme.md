@@ -6,7 +6,6 @@
 原文件来自于python库[showast](https://github.com/hchasestevens/show_ast)，由于`showast`只能在jupyter notebook中使用，本人对源代码进行了修改，可以直接使用python脚本或从python命令行生成可视化文件。
 
 ## 使用方法
----
 
 使用show_ast可视化抽象语法树
 
@@ -30,7 +29,6 @@ Settings['shape'] = 'box'
 
 
 ## 项目文件结构
----
 
 ```
 astshow
